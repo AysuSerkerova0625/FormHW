@@ -1,0 +1,11 @@
+Form method=get,enctype=?
+Ad, Soyad (required,min 3).
+Yaş (min 3 max 99).
+E-mail (required).
+Şifrə (password,required,min 7).
+Cinsiyyət (radio,required).
+Şərtlərlə Razıyam (checkbox,required).
+Şəkil və CV yükləmə sahələri (file,accept = pdf).
+Formun sonunda Göndər və Təmizlə düymələri olsun. Hər bir inputun placeholderi və labeli olmalıdır.
+
+Form teqinin çölündə button olamlıdır və formu submit etməlidir.
